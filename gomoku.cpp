@@ -1,4 +1,4 @@
-//<2423748>
+
 
 #include "gomoku.h"
 #include <fstream>
